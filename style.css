@@ -1,5 +1,15 @@
-*{
+body {
+    margin: 0;
+}
+
+header{
+    margin: 0 0 0 0;
     background-color: #ED1D24;
+    width: 100%;
+}
+
+#HomeMainBody {
+    background-color: red;
 }
 
 #headerImg {
@@ -8,21 +18,42 @@
     margin-right: auto;
 }
 
-/*flex for images homepage*/
 .container {
-    flex: 50%;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
     padding: 0 20px;
 }
 
+.column {
+    margin-right: 15px;
+    max-width: 100%;
+}
+
 .container img {
-    margin-right: 10px;
     margin-top: 8px;
     vertical-align: middle;
-    width: 300px;
+    width: 320px;
     height: 250px;
 }
 
-.text{
-    max-width: 200px;
-    margin-right: 0px;
+nav{
+    background-color: #ED1D24;
+    display: flex;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    justify-content: center;
+}
+
+nav a{
+    background-color: #ED1D24;
+    padding: 0 5px;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    margin: 0;
+    text-align: center;
 }

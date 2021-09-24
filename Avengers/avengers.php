@@ -11,7 +11,7 @@
     <img id="headerImg" src="../images/img.png" alt="homeImage marvel">
 
     <nav>
-        <a href="Avengers/avengers.php">Avengers</a>
+        <a href="../index.php">home</a>
         <a href="captainAmerica">captain America</a>
         <a href="thor">thor</a>
         <a href="ironMan">iron Man</a>

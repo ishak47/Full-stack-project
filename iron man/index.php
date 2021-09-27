@@ -12,21 +12,22 @@
 
     <nav>
         <a href="../index.php">home</a>
-        <a href="../Avengers/index.php">Avengers</a>
         <a href="../captain%20america/index.php">Captain America</a>
-        <a href="ironMan">Iron Man</a>
-        <a href="blackPanther">Black Panther</a>
+        <a href="../Avengers/index.php">Avengers</a>
+        <a href="../thor/index.php">thor</a>
+        <a href="index.php">iron Man</a>
+        <a href="blackPanther">black Panther</a>
     </nav>
 </header>
 <div id="HomeMainBody">
     <div class="titels">
-        <h1>thor</h1>
-        <h1>thor <br> the dark world</h1>
-        <h1>thor <br> ragnarok</h1>
+        <h1>Iron Man 1 </h1>
+        <h1>Iron Man 2 </h1>
+        <h1>Iron Man 3 </h1>
     </div>
     <div class="container">
         <div class="column">
-            <img src="../thor/images/thor.jpg">
+            <img src="images/iron%20man%201.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
                 parturient montes, nascetur ridiculus mus. Mauris mattis neque sed magna scelerisque cursus. Aliquam
@@ -37,7 +38,7 @@
                 tempor velit.</p>
         </div>
         <div class="column">
-            <img src="../thor/images/the%20dark%20world.jpg">
+            <img src="images/iron%20man%202.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
                 parturient montes, nascetur ridiculus mus. Mauris mattis neque sed magna scelerisque cursus. Aliquam
@@ -48,7 +49,7 @@
                 tempor velit.</p>
         </div>
         <div class="column">
-            <img src="../thor/images/ragnarok.jpg">
+            <img src="images/iron%20man%203.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
                 parturient montes, nascetur ridiculus mus. Mauris mattis neque sed magna scelerisque cursus. Aliquam

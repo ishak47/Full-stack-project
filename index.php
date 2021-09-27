@@ -10,15 +10,14 @@
 <header>
     <img id="headerImg" src="images/img.png" alt="homeImage marvel">
     <nav class="inlogButton">
-        <a href="inloggen">inloggen</a>
-        <a href="registreren">registreren</a>
+        <a href="inloggen">Inloggen</a>
+        <a href="registreren">Registreren</a>
     </nav>
     <nav>
         <a href="Avengers/index.php">Avengers</a>
         <a href="captain america/index.php">captain America</a>
-        <a href="thor">thor</a>
-        <a href="ironMan">iron Man</a>
-        <a href="blackPanther">black Panther</a>
+        <a href="thor">Thor</a>
+        <a href="ironMan">Iron Man</a>
     </nav></header>
 <div id="HomeMainBody">
     <h1>Upcoming Movies & Series</h1>

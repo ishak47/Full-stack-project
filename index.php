@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <link href="style.css" rel="stylesheet">
-    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Marvel</title>
     <link href="images/img.png" type="image/icon" rel="icon">
 </head>
@@ -14,13 +14,12 @@
         <a href="registreren">registreren</a>
     </nav>
     <nav>
-        <a href="Avengers/avengers.php">Avengers</a>
-        <a href="captainAmerica">captain America</a>
+        <a href="Avengers/index.php">Avengers</a>
+        <a href="captain america/index.php">captain America</a>
         <a href="thor">thor</a>
         <a href="ironMan">iron Man</a>
         <a href="blackPanther">black Panther</a>
-    </nav>
-</header>
+    </nav></header>
 <div id="HomeMainBody">
     <h1>Upcoming Movies & Series</h1>
     <div class="container">

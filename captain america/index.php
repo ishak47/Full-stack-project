@@ -8,7 +8,7 @@
 </head>
 <body>
 <header>
-    <img id="headerImg" src="../images/img.png" alt="homeImage marvel">
+    <img id="headerImg" src="../images/avengersHome.png" alt="homeImage marvel">
 
     <nav>
         <a href="../index.php">Home</a>

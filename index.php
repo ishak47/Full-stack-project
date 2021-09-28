@@ -14,15 +14,15 @@
         <a href="registreren">Registreren</a>
     </nav>
     <nav>
-        <a href="Avengers/index.php">Avengers</a>
+        <a href="Avengers/avengers.php">Avengers</a>
         <a href="captain america/index.php">captain America</a>
         <a href="thor/index.php">Thor</a>
         <a href="ironMan">Iron Man</a>
     </nav></header>
 <div id="HomeMainBody">
-    <h1>Upcoming Movies & Series</h1>
     <div class="container">
         <div class="column">
+            <h1>Avengers</h1>
             <img src="images/avengersHome.png">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
@@ -34,6 +34,7 @@
                 tempor velit.</p>
         </div>
         <div class="column">
+            <h1>CaptainAmerica</h1>
             <img src="images/captain%20america%20homepage.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
@@ -45,6 +46,7 @@
                 tempor velit.</p>
         </div>
         <div class="column">
+            <h1>Iron Man</h1>
             <img src="images/iron%20man%20homepage.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
@@ -56,6 +58,7 @@
                 tempor velit.</p>
         </div>
         <div class="column">
+            <h1>Thor</h1>
             <img src="images/thor%20homepage.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis

@@ -8,6 +8,7 @@
 
 body {
     margin: 0;
+    background: blue;
 }
 
 header{
@@ -17,7 +18,7 @@ header{
 }
 
 #HomeMainBody {
-    background-color: red;
+    /*background-color: red;*/
 }
 
 #headerImg {
@@ -26,11 +27,11 @@ header{
     margin-right: auto;
 }
 
-    .container {
-        display: grid;
-        grid-template-columns: auto auto auto auto;
-        padding: 0 20px;
-    }
+.container {
+    display: grid;
+    grid-template-columns: auto auto ;
+    padding: 0 20px;
+}
 
 .column {
     margin-right: 15px;

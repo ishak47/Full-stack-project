@@ -12,7 +12,7 @@
 
     <nav>
         <a href="../index.php">Home</a>
-        <a href="../Avengers/index.php">Avengers</a>
+        <a href="../Avengers/avengers.php">Avengers</a>
         <a href="../thor/index.php">Thor</a>
         <a href="../iron%20man">Iron Man</a>
         <a href="blackPanther">Black Panther</a>

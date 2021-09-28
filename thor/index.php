@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link href="style.css" rel="stylesheet">
+    <link href="thorSubPage.css" rel="stylesheet">
     <meta charset="UTF-8">
     <title>Marvel</title>
     <link href="images/img.png" type="image/icon" rel="icon">
@@ -12,7 +12,7 @@
 
     <nav>
         <a href="../index.php">home</a>
-        <a href="../Avengers/index.php">Avengers</a>
+        <a href="../Avengers/avengers.php">Avengers</a>
         <a href="../captain%20america/index.php">Captain America</a>
         <a href="ironMan">Iron Man</a>
         <a href="blackPanther">Black Panther</a>

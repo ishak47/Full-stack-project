@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link href="subpage.css" rel="stylesheet">
+    <link href="AvengersSubpage.css" rel="stylesheet">
     <meta charset="UTF-8">
     <title>Marvel</title>
-    <link href="images/img.png" type="image/icon" rel="icon">
+<!--    <link href="images/img.png" type="image/icon" rel="icon">-->
 </head>
 <body>
 <header>
-    <img id="headerImg" src="../images/avengersHome.png" alt="homeImage marvel">
+    <img id="headerImg" src="../images/logo.png" alt="homeImage marvel">
 
     <nav>
         <a href="../index.php">home</a>
@@ -20,13 +20,10 @@
 </header>
 <div id="HomeMainBody">
     <div class="titels">
-        <h1>avengers</h1>
-        <h1>age of ultron</h1>
-        <h1>infinity war</h1>
-        <h1>endgame</h1>
     </div>
     <div class="container">
         <div class="column">
+            <h1>avengers</h1>
             <img src="../Avengers/image/avengers.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
@@ -38,6 +35,7 @@
                 tempor velit.</p>
         </div>
         <div class="column">
+            <h1>age of ultron</h1>
             <img src="../Avengers/image/age%20of%20ultron.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
@@ -49,6 +47,7 @@
                 tempor velit.</p>
         </div>
         <div class="column">
+            <h1>infinity war</h1>
             <img src="../Avengers/image/infinity%20war.png">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
@@ -60,6 +59,7 @@
                 tempor velit.</p>
         </div>
         <div class="column">
+            <h1>endgame</h1>
             <img src="image/endgame.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis

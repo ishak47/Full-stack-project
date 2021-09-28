@@ -1,32 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link href="thorSubPage.css" rel="stylesheet">
+    <link href="../subPage.css" rel="stylesheet">
     <meta charset="UTF-8">
     <title>Marvel</title>
     <link href="images/img.png" type="image/icon" rel="icon">
 </head>
 <body>
 <header>
-    <img id="headerImg" src="../images/avengersHome.png" alt="homeImage marvel">
+    <img id="headerImg" src="../images/logo.png" alt="homeImage marvel">
 
     <nav>
-        <a href="../index.php">home</a>
+        <a href="../index.php">Home</a>
+        <a href="../captain%20america/captainAmerica.php">Captain America</a>
         <a href="../Avengers/avengers.php">Avengers</a>
-        <a href="../captain%20america/index.php">Captain America</a>
-        <a href="ironMan">Iron Man</a>
-        <a href="blackPanther">Black Panther</a>
+        <a href="../thor/thor.php">Thor</a>
+        <a href="ironMan.php">Iron Man</a>
     </nav>
 </header>
 <div id="HomeMainBody">
     <div class="titels">
-        <h1>thor</h1>
-        <h1>thor <br> the dark world</h1>
-        <h1>thor <br> ragnarok</h1>
     </div>
     <div class="container">
         <div class="column">
-            <img src="../thor/images/thor.jpg">
+            <h1>Iron Man 1 </h1>
+            <img src="images/iron%20man%201.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
                 parturient montes, nascetur ridiculus mus. Mauris mattis neque sed magna scelerisque cursus. Aliquam
@@ -37,7 +35,8 @@
                 tempor velit.</p>
         </div>
         <div class="column">
-            <img src="../thor/images/the%20dark%20world.jpg">
+            <h1>Iron Man 2 </h1>
+            <img src="images/iron%20man%202.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
                 parturient montes, nascetur ridiculus mus. Mauris mattis neque sed magna scelerisque cursus. Aliquam
@@ -48,7 +47,8 @@
                 tempor velit.</p>
         </div>
         <div class="column">
-            <img src="../thor/images/ragnarok.jpg">
+            <h1>Iron Man 3 </h1>
+            <img src="images/iron%20man%203.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
                 parturient montes, nascetur ridiculus mus. Mauris mattis neque sed magna scelerisque cursus. Aliquam

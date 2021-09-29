@@ -19,22 +19,22 @@
     </nav>
     <nav>
         <div>
-        <a href="Avengers/avengers.php">Avengers</a>
+        <a href="subpagina's/Avengers/avengers.php">Avengers</a>
         </div>
         <div>
-        <a href="captain america/captainAmerica.php">Captain America</a>
+        <a href="subpagina's/captain america/captainAmerica.php">Captain America</a>
         </div>
         <div>
-        <a href="thor/thor.php">Thor</a>
+        <a href="subpagina's/thor/thor.php">Thor</a>
         </div>
         <div>
-        <a href="iron%20man/ironMan.php">Iron Man</a>
+        <a href="subpagina's/iron%20man/ironMan.php">Iron Man</a>
         </div>
     </nav></header>
 <div id="HomeMainBody">
     <div class="container">
         <div class="column">
-            <a href="Avengers/avengers.php">
+            <a href="subpagina's/Avengers/avengers.php">
             <h1>Avengers</h1>
             </a>
             <img src="images/avengersHome.png">
@@ -48,7 +48,7 @@
                 tempor velit.</p>
         </div>
         <div class="column">
-            <a href="captain america/captainAmerica.php">
+            <a href="subpagina's/captain america/captainAmerica.php">
             <h1>Captain America</h1>
             </a>
             <img src="images/captain%20america%20homepage.jpg">
@@ -76,7 +76,7 @@
                 tempor velit.</p>
         </div>
         <div class="column">
-            <a href="thor/thor.php">
+            <a href="subpagina's/thor/thor.php">
             <h1>Thor</h1>
             </a>
             <img src="images/thor%20homepage.jpg">

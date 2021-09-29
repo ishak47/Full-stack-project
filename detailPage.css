@@ -6,6 +6,10 @@
     color: white;
 }
 
+html{
+    background-color: red;
+}
+
 body {
     margin: 0;
 }
@@ -53,13 +57,13 @@ nav a{
 
 .column {
     margin-right: 15px;
-    max-width: 100%;
+    max-width: 50%;
 }
 
 .container img {
     margin-top: 8px;
-    vertical-align: middle;
-    width:100% ;
+    vertical-align: center;
+    width:50% ;
 }
 
 

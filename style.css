@@ -32,8 +32,8 @@ nav{
 nav a{
     background-color: #ED1D24;
     padding: 0 5px;
-    border-left: 2px solid darkred;
-    border-right: 2px solid darkred;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
     text-decoration: none;
     color: white;
 }

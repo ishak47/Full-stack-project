@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
-*{
+* {
     font-family: "Lato", fantasy;
     box-sizing: border-box;
     color: white;
 }
 
-html{
+html {
     background-color: red;
 }
 
@@ -19,13 +19,13 @@ body {
 }
 
 /*header pagina*/
-header{
+header {
     margin: 0 0 0 0;
     background-color: #ED1D24;
     width: 100%;
 }
 
-nav{
+nav {
     background-color: #ED1D24;
     display: flex;
     margin: 0 auto;
@@ -33,7 +33,7 @@ nav{
     justify-content: center;
 }
 
-nav a{
+nav a {
     background-color: #ED1D24;
     padding: 0 5px;
     border-left: 2px solid black;
@@ -51,35 +51,36 @@ nav a{
 /*grid*/
 .container {
     display: grid;
-    grid-template-columns: auto auto ;
+    grid-template-columns: auto auto auto auto;
     grid-gap: 10px 20px;
 }
 
 .column {
+    text-align: center;
     margin-right: 15px;
-    max-width: 50%;
+    max-width: 100%;
 }
 
 .container img {
     margin-top: 8px;
     vertical-align: center;
-    width:50% ;
+    width: 50%;
 }
 
-
 /*titel tekst*/
-h1{
+
+h1 {
     margin: 0;
     text-align: center;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
 /*responsive*/
-@media(max-width: 600px){
-    nav.inlogButton{
+@media (max-width: 600px) {
+    nav.inlogButton {
         padding-bottom: 0;
     }
 
@@ -88,14 +89,14 @@ a{
         text-align: center;
     }
 
-    div.container{
-        display:grid;
+    div.container {
+        display: grid;
         grid-template-columns: auto;
     }
 }
 
-@media(min-width: 1150px){
-    nav.inlogButton{
+@media (min-width: 1150px) {
+    nav.inlogButton {
         font-size: 33px;
     }
 
@@ -104,8 +105,8 @@ a{
         text-align: center;
     }
 
-    div.container{
-        display:grid;
+    div.container {
+        display: grid;
         grid-template-columns: auto auto;
     }
 }

@@ -11,31 +11,32 @@
     <img id="headerImg" src="images/logo.png" alt="homeImage marvel">
     <nav class="inlogButton">
         <div>
-        <a href="inloggen">Inloggen</a>
+            <a href="inloggen">Inloggen</a>
         </div>
         <div>
-        <a href="registreren">Registreren</a>
+            <a href="registreren">Registreren</a>
         </div>
     </nav>
     <nav>
         <div>
-        <a href="subpagina's/Avengers/avengers.php">Avengers</a>
+            <a href="subpagina's/Avengers/avengers.php">Avengers</a>
         </div>
         <div>
-        <a href="subpagina's/captain america/captainAmerica.php">Captain America</a>
+            <a href="subpagina's/captain america/captainAmerica.php">Captain America</a>
         </div>
         <div>
-        <a href="subpagina's/thor/thor.php">Thor</a>
+            <a href="subpagina's/thor/thor.php">Thor</a>
         </div>
         <div>
-        <a href="subpagina's/iron%20man/ironMan.php">Iron Man</a>
+            <a href="subpagina's/iron%20man/ironMan.php">Iron Man</a>
         </div>
-    </nav></header>
+    </nav>
+</header>
 <div id="HomeMainBody">
     <div class="container">
         <div class="column">
             <a href="subpagina's/Avengers/avengers.php">
-            <h1>Avengers</h1>
+                <h1>Avengers</h1>
             </a>
             <img src="images/avengersHome.png">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
@@ -49,7 +50,7 @@
         </div>
         <div class="column">
             <a href="subpagina's/captain america/captainAmerica.php">
-            <h1>Captain America</h1>
+                <h1>Captain America</h1>
             </a>
             <img src="images/captain%20america%20homepage.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
@@ -63,7 +64,7 @@
         </div>
         <div class="column">
             <a href="iron%20man/ironMan.php">
-            <h1>Iron Man</h1>
+                <h1>Iron Man</h1>
             </a>
             <img src="images/iron%20man%20homepage.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
@@ -77,7 +78,7 @@
         </div>
         <div class="column">
             <a href="subpagina's/thor/thor.php">
-            <h1>Thor</h1>
+                <h1>Thor</h1>
             </a>
             <img src="images/thor%20homepage.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.

@@ -33,7 +33,7 @@
             <h1 class="titel">Avengers</h1>
             <img src="../../images/avengersHome.png">
         </div>
-        <div class="column">
+        <div class="column" style="grid-row: 1 / span 2; grid-column-start: 2;">
             <h1 class="titel">Characters</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
@@ -44,8 +44,8 @@
                 Praesent ullamcorper, ipsum vel laoreet ultricies, dolor nunc ultricies felis, sed efficitur odio ex
                 tempor velit.</p>
         </div>
-        <div class="column">
-            <h1 class="titel">biography</h1>
+        <div class="column"style="grid-row: 2 / span 2; grid-column-start: 1;">
+            <h1 class="titel">Biography</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
                 parturient montes, nascetur ridiculus mus. Mauris mattis neque sed magna scelerisque cursus. Aliquam
@@ -54,6 +54,12 @@
                 dignissim. Nullam aliquet lorem condimentum odio rhoncus maximus. Fusce aliquam quam eu pretium blandit.
                 Praesent ullamcorper, ipsum vel laoreet ultricies, dolor nunc ultricies felis, sed efficitur odio ex
                 tempor velit.</p>
+        </div>
+        <div class="column" style="grid-column-start: 2;">
+            <h1 class="titel">Trailer</h1>
+            <video width=100% controls>
+                <source src="../image/Marvels%20The%20Avengers-%20Trailer%20(OFFICIAL).mp4" type="video/mp4">
+            </video>
         </div>
     </div>
 </body>

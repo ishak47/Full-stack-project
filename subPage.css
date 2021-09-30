@@ -75,10 +75,6 @@ a{
 
 /*responsive*/
 @media(max-width: 600px){
-    nav.inlogButton{
-        padding-bottom: 0;
-    }
-
     nav {
         flex-direction: column;
         text-align: center;
@@ -86,14 +82,12 @@ a{
 
     div.container{
         display:grid;
-        grid-template-columns: auto;
+        grid-template-columns: auto ;
+        padding: 15px;
     }
 }
 
 @media(min-width: 1150px){
-    nav.inlogButton{
-        font-size: 33px;
-    }
 
     nav {
         font-size: 33px;

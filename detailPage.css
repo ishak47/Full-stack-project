@@ -51,12 +51,13 @@ nav a {
 /*grid*/
 .container {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto ;
     grid-gap: 10px 20px;
 }
 
 .column {
-    text-align: center;
+    padding-left: 15px;
+    /*text-align: center;*/
     margin-right: 15px;
     max-width: 100%;
 }
@@ -64,7 +65,13 @@ nav a {
 .container img {
     margin-top: 8px;
     vertical-align: center;
-    width: 50%;
+    width: 100%;
+}
+
+/*video trailer*/
+video{
+    padding-bottom: 5px;
+    padding-right: 5px;
 }
 
 /*titel tekst*/
@@ -78,12 +85,12 @@ a {
     text-decoration: none;
 }
 
+.column p {
+    font-size: 30px;
+}
+
 /*responsive*/
 @media (max-width: 600px) {
-    nav.inlogButton {
-        padding-bottom: 0;
-    }
-
     nav {
         flex-direction: column;
         text-align: center;
@@ -93,13 +100,29 @@ a {
         display: grid;
         grid-template-columns: auto;
     }
+
+    .column p {
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 601px){
+    .column p {
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 700px){
+    .column p {
+        font-size: 14px;
+    }
 }
 
 @media (min-width: 1150px) {
-    nav.inlogButton {
-        font-size: 33px;
-    }
 
+    .column p {
+        font-size: 28px;
+    }
     nav {
         font-size: 33px;
         text-align: center;

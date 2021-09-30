@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="../../subPage.css" rel="stylesheet">
     <meta charset="UTF-8">
     <title>Marvel</title>
@@ -9,13 +10,12 @@
 <body>
 <header>
     <img id="headerImg" src="../../images/logo.png" alt="homeImage marvel">
-
     <nav>
-        <a href="../../index.php">Home</a>
-        <a href="../Avengers/avengers.php">Avengers</a>
-        <a href="../captain%20america/captainAmerica.php">Captain America</a>
-        <a href="../thor/thor.php">Thor</a>
-        <a href="ironMan.php">Iron Man</a>
+        <div><a href="../../index.php">Home</a></div>
+        <div><a href="../Avengers/avengers.php">Avengers</a></div>
+        <div><a href="../captain%20america/captainAmerica.php">Captain America</a></div>
+        <div><a href="../thor/thor.php">Thor</a></div>
+        <div><a href="../iron%20man/ironMan.php">Iron Man</a></div>
     </nav>
 </header>
 <div id="HomeMainBody">

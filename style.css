@@ -90,6 +90,7 @@ a{
     div.container{
         display:grid;
         grid-template-columns: auto;
+        padding-left: 15px;
     }
 }
 

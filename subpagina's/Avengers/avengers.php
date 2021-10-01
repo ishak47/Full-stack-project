@@ -34,9 +34,9 @@
                 tempor velit.</p>
         </div>
         <div class="column">
-<!--            <a href="">-->
+            <a href="../../detailPagina/avengers/ageOfUltronDetail.php">
                 <h1>Age Of Ultron</h1>
-<!--            </a>-->
+            </a>
             <img src="../../subpagina's/Avengers/image/age%20of%20ultron.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
@@ -48,7 +48,7 @@
                 tempor velit.</p>
         </div>
         <div class="column">
-            <a href="iron%20man/ironMan.php">
+            <a href="../../detailPagina/avengers/infinityWarDetail.php">
                 <h1>Infinity War</h1>
             </a>
             <img src="../../subpagina's/Avengers/image/infinity%20war.png">
@@ -62,9 +62,9 @@
                 tempor velit.</p>
         </div>
         <div class="column">
-<!--            <a href="subpagina's/thor/thor.php">-->
+            <a href="../../detailPagina/avengers/endgameDetail.php">
                 <h1>Endgame</h1>
-<!--            </a>-->
+           </a>
             <img src="../../subpagina's/Avengers/image/endgame.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis

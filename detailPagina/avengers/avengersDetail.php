@@ -58,7 +58,7 @@
         <div class="column" >
             <h1 class="titel">Trailer</h1>
             <video width=100% controls>
-                <source src="../image/Marvels%20The%20Avengers-%20Trailer%20(OFFICIAL).mp4" type="video/mp4">
+                <source src="trailer/Marvels%20The%20Avengers-%20Trailer%20(OFFICIAL).mp4" type="video/mp4">
             </video>
         </div>
     </div>

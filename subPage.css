@@ -95,6 +95,7 @@ a{
     }
 
     div.container{
+        font-size: 24px;
         display:grid;
         grid-template-columns: auto auto;
     }

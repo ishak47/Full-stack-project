@@ -23,7 +23,9 @@
     </div>
     <div class="container">
         <div class="column">
+            <a href="../../detailPagina/captain%20america%20detail/firstAvengerDetail.php">
             <h1>Captain America: The First Avenger</h1>
+            </a>
             <img src="images/captain america the first avenger.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
@@ -35,7 +37,9 @@
                 tempor velit.</p>
         </div>
         <div class="column">
+            <a href="../../detailPagina/captain%20america%20detail/winterSoldierDetail.php">
             <h1>Captain America: The Winter Soldier</h1>
+            </a>
             <img src="images/the winter soldier.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
@@ -47,7 +51,9 @@
                 tempor velit.</p>
         </div>
         <div class="column">
+            <a href="../../detailPagina/captain%20america%20detail/civilWarDetail.php">
             <h1>Captain America: Civil War</h1>
+            </a>
             <img src="images/civil war.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis

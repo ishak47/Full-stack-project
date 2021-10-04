@@ -23,7 +23,9 @@
     </div>
     <div class="container">
         <div class="column">
+            <a href="../../detailPagina/thor%20detail/thorDetail.php">
             <h1>Thor</h1>
+            </a>
             <img src="images/thor.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
@@ -35,7 +37,9 @@
                 tempor velit.</p>
         </div>
         <div class="column">
+            <a href="../../detailPagina/thor%20detail/thorDarkWorld.php">
             <h1>Thor: The Dark World</h1>
+            </a>
             <img src="images/the dark world.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
@@ -47,7 +51,9 @@
                 tempor velit.</p>
         </div>
         <div class="column">
+            <a href="../../detailPagina/thor%20detail/thorRagnarok.php">
             <h1>Thor: Ragnarok</h1>
+            </a>
             <img src="images/ragnarok.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis

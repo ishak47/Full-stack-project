@@ -30,8 +30,8 @@
 <div id="HomeMainBody">
     <div class="container">
         <div class="column">
-            <h1 class="titel">Age Of Ultron</h1>
-            <img src="../../subpagina's/Avengers/image/infinity%20war.png">
+            <h1 class="titel">The First Avenger</h1>
+            <img src="../../subpagina's/captain%20america/images/captain%20america%20the%20first%20avenger.jpg">
         </div>
         <div class="column" id="characters">
             <h1 class="titel">Characters</h1>
@@ -58,7 +58,7 @@
         <div class="column" >
             <h1 class="titel">Trailer</h1>
             <video width=100% controls>
-                <source src="trailer/infinityWarTrailer.mp4" type="video/mp4">
+                <source src="trailer/trailerFirstAvenger.mp4" type="video/mp4">
             </video>
         </div>
     </div>

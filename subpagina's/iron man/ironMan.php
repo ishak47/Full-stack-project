@@ -5,7 +5,7 @@
     <link href="../../subPage.css" rel="stylesheet">
     <meta charset="UTF-8">
     <title>Marvel</title>
-    <link href="images/img.png" type="image/icon" rel="icon">
+    <link href="../../images/logo.png" type="image/icon" rel="icon">
 </head>
 <body>
 <header>
@@ -23,7 +23,9 @@
     </div>
     <div class="container">
         <div class="column">
+            <a href="../../detailPagina/iron%20man%20detail/ironMan1Detail.php">
             <h1>Iron Man 1 </h1>
+            </a>
             <img src="images/iron man 1.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
@@ -35,7 +37,9 @@
                 tempor velit.</p>
         </div>
         <div class="column">
+            <a href="../../detailPagina/iron%20man%20detail/ironMan2Detail.php">
             <h1>Iron Man 2 </h1>
+            </a>
             <img src="images/iron man 2.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis
@@ -47,7 +51,9 @@
                 tempor velit.</p>
         </div>
         <div class="column">
+            <a href="../../detailPagina/iron%20man%20detail/ironMan3Detail.php">
             <h1>Iron Man 3 </h1>
+            </a>
             <img src="images/iron man 3.jpg">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius malesuada ante, id vehicula felis.
                 Cras sit amet neque orci. Ut sit amet euismod leo. Orci varius natoque penatibus et magnis dis

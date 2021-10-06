@@ -13,17 +13,38 @@
         <div>
             <a href="../../index.php">Home</a>
         </div>
-        <div>
+        <div class="dropdown">
             <a href="../../subpagina's/Avengers/avengers.php">Avengers</a>
+            <div class="dropdown-content">
+                <a href="../../detailPagina/avengers/avengersDetail.php">Avengers</a>
+                <a href="../../detailPagina/avengers/ageOfUltronDetail.php">Age Of Ultron</a>
+                <a href="../../detailPagina/avengers/infinityWarDetail.php">Infinity War</a>
+                <a href="../../detailPagina/avengers/endgameDetail.php">Endgame</a>
+            </div>
         </div>
-        <div>
+        <div class="dropdown">
             <a href="../../subpagina's/captain america/captainAmerica.php">Captain America</a>
+            <div class="dropdown-content">
+                <a href="../../detailPagina/captain%20america%20detail/firstAvengerDetail.php">The First Avenger</a>
+                <a href="../../detailPagina/captain%20america%20detail/winterSoldierDetail.php">The Winter Soldier</a>
+                <a href="../../detailPagina/captain%20america%20detail/civilWarDetail.php">Civil War</a>
+            </div>
         </div>
-        <div>
+        <div class="dropdown">
             <a href="../../subpagina's/thor/thor.php">Thor</a>
+            <div class="dropdown-content">
+                <a href="../../detailPagina/thor%20detail/thorDetail.php">Thor</a>
+                <a href="../../detailPagina/thor%20detail/thorDarkWorld.php">The Dark World</a>
+                <a href="../../detailPagina/thor%20detail/thorRagnarok.php">Ragnarok</a>
+            </div>
         </div>
-        <div>
+        <div class="dropdown">
             <a href="../../subpagina's/iron%20man/ironMan.php">Iron Man</a>
+            <div class="dropdown-content">
+                <a href="../../detailPagina/iron%20man%20detail/ironMan1Detail.php">Iron Man 1</a>
+                <a href="../../detailPagina/iron%20man%20detail/ironMan2Detail.php">Iron Man 2</a>
+                <a href="../../detailPagina/iron%20man%20detail/ironMan3Detail.php">Iron Man 3</a>
+            </div>
         </div>
     </nav>
 </header>

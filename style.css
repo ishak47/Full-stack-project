@@ -126,6 +126,11 @@ a{
         grid-template-columns: auto;
         padding-left: 15px;
     }
+
+    .dropdown-content{
+        position: relative;
+        border: solid 1px black;
+    }
 }
 
 @media(min-width: 1150px){

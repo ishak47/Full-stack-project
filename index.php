@@ -3,7 +3,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Marvel</title>
-    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="CSS/style.css" rel="stylesheet" type="text/css">
     <link href="images/logo.png" type="image/icon" rel="icon">
 </head>
 <body>
@@ -11,7 +11,7 @@
     <img id="headerImg" src="images/logo.png" alt="homeImage marvel">
     <nav class="inlogButton">
         <div>
-            <a href="inloggen">Inloggen</a>
+            <a href="inloggen/inlog.php">Inloggen</a>
         </div>
         <div>
             <a href="registreren">Registreren</a>

@@ -1,0 +1,26 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-color: red;
+    height: 100%;
+    position: relative;
+}
+
+.inlog{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#inside {
+    padding: 30px;
+    background-color: white;
+    border-radius: 30px;
+}
+
+p {
+    text-align: center;
+}

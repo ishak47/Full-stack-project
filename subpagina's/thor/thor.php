@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="../../subPage.css" rel="stylesheet">
+    <link href="../../CSS/subPage.css" rel="stylesheet">
     <meta charset="UTF-8">
     <title>Marvel</title>
     <link href="images/img.png" type="image/icon" rel="icon">

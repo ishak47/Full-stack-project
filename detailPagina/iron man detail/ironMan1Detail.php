@@ -3,7 +3,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Marvel</title>
-    <link href="../../detailPage.css" rel="stylesheet" type="text/css">
+    <link href="../../CSS/detailPage.css" rel="stylesheet" type="text/css">
     <link href="../../images/logo.png" type="image/icon" rel="icon">
 </head>
 <body>

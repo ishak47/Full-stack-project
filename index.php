@@ -14,7 +14,7 @@
             <a href="inloggen/inlog.php">Inloggen</a>
         </div>
         <div>
-            <a href="registreren">Registreren</a>
+            <a href="inloggen/registreren.php">Registreren</a>
         </div>
     </nav>
     <nav>

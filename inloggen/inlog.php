@@ -10,8 +10,14 @@
 
 <div class="inlog">
     <div id="inside">
-        <p>gshfgksdfgusdfkjndsfvjkdsnfjvbdsfvbjsbfbjsbdnfvk</p>
-
+        <form name="loginText" action="" id="loginForm" method="post">
+            <h3>Email or Username:</h3>
+            <input type="text" placeholder="Email or Username" required id="user" name="user">
+            <h3>Password:</h3>
+            <input type="password" placeholder="Password" required id="pass" name="pass">
+            <input id="button" type="submit" value="login"/>
+            <h3>nog geen account <a href="registreren.php">registreer</a> hier! </h3>
+        </form>
     </div>
 </div>
 <?php
